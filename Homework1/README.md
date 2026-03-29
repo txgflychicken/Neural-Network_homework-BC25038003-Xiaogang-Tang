@@ -145,3 +145,6 @@ plt.show()
 mse = mean_squared_error(Y_test.detach().numpy(), Y_pred.detach().numpy())     #计算MSE
 print("\nTest MSE:", mse)
 ```
+<img src="fig1.png" alt="alt text" width="800">
+<img src="fig2.png" alt="alt text" width="800">
+<img src="fig3.png" alt="alt text" width="800">
